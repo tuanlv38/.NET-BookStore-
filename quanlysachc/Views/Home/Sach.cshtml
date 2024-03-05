@@ -1,0 +1,23 @@
+﻿@using quanlysachc.Models;
+@{
+    String a = "/contents/images/";
+    Sach h;
+
+}
+
+<table border="1">
+    @foreach (Sach row in ViewBag.dsSach)
+    {
+        <tr border="1">
+
+            <td border ="1"> @row.TenSach</td>
+
+            <td border="1"> <img src="@a@row.Hinh" alt="anh" style="width=300px;height=400px"> </td>
+                   
+          
+            
+        </tr>
+
+    }
+</table>
+

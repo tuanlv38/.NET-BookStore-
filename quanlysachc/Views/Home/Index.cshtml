@@ -1,0 +1,213 @@
+﻿
+@using quanlysachc.Models;
+@{
+    String a = "/contents/images/";
+}
+@using Microsoft.AspNetCore.Http
+
+
+<div id="index-ad-carousel" class="carousel slide container-md" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#index-ad-carousel" data-bs-slide-to="0"
+                class="active ad-carousel-indicators" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#index-ad-carousel" data-bs-slide-to="1" aria-label="Slide 2"
+                class="ad-carousel-indicators"></button>
+        <button type="button" data-bs-target="#index-ad-carousel" data-bs-slide-to="2" aria-label="Slide 3"
+                class="ad-carousel-indicators"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active ad-carousel-item">
+            <img src="https://cdn0.fahasa.com/media/magentothem/banner7/Manga_mainbanner_T11_Slide_840x320.jpg"
+                 class="d-block w-100 ad-carousel-img" " alt=" null">
+        </div>
+        <div class="carousel-item ad-carousel-item">
+            <img src="https://cdn0.fahasa.com/media/magentothem/banner7/Manga_mainbanner_T11_Slide_840x320.jpg"
+                 class="d-block w-100 ad-carousel-img" " alt=" null">
+        </div>
+        <div class="carousel-item ad-carousel-item">
+            <img src="https://cdn0.fahasa.com/media/magentothem/banner7/Manga_mainbanner_T11_Slide_840x320.jpg"
+                 class="d-block w-100 ad-carousel-img" alt="null">
+        </div>
+    </div>
+    <button class="carousel-control-prev ad-carousel-btn-arrow" type="button" data-bs-target="#index-ad-carousel"
+            data-bs-slide="prev">
+        <span class="carousel-control-prev-icon ad-carousel-icon-arrow" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next ad-carousel-btn-arrow" type="button" data-bs-target="#index-ad-carousel"
+            data-bs-slide="next">
+        <span class="carousel-control-next-icon ad-carousel-icon-arrow" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+
+<div class="container-md index-itemlist-container">
+    <div class="row" id="lable-row">
+        <div class="itemlist-label d-flex align-items-center gap-3">
+            <span>
+                <i class="bi bi-fire text-danger fs-4"></i>
+            </span>XU HƯỚNG MUA SẮM - SÁCH HOT - SÁCH MỚI NHẤT
+        </div>
+    </div>
+    <div class="row index-itemlist" id="bestseller">
+        <div class="container-fluid itemlist-row d-flex align-items-center justify-content-center align-self-stretch"
+             id="itemlist-row1">
+         @for (int i = 0; i < 4 && i < (ViewBag.dsSach).Count; i++)
+            {
+                <div class="col item-container d-flex flex-column justify-content-center align-items-start"
+                     id="row1-item1">
+                    <div class="img-container d-flex justify-content-center w-100">
+                        <img src="@a@ViewBag.dsSach[@i].Hinh" alt="dead"
+                             class="img-fluid">
+                    </div>
+                    <div class="item-text-container d-flex align-items-center text-truncate">
+                        <a href="/Item/Item?id=@ViewBag.dsSach[@i].Id" class="item-text " id="item-name">
+                            @ViewBag.dsSach[@i].TenSach
+                        </a>
+                    </div>
+                    <div class="item-text-container">
+                        <div class="item-text" id="item-price">@ViewBag.dsSach[@i].GiaBia đ</div>
+                    </div>
+                    <div class="item-rating-container d-flex align-items-center gap-1">
+                        <i class="bi bi-star-fill text-warning" id="star1"></i>
+                        <i class="bi bi-star-fill text-warning" id="star2"></i>
+                        <i class="bi bi-star-fill text-warning" id="star3"></i>
+                        <i class="bi bi-star-fill text-warning" id="star4"></i>
+                        <i class="bi bi-star-fill text-warning" id="star5"></i>
+                        <span class="item-text" id="item-rating-number">(1)</span>
+                    </div>
+                </div>
+            }
+          
+        </div>
+        <div class="container-fluid itemlist-row d-flex align-items-center justify-content-center align-self-stretch"
+             id="itemlist-row2">
+            @for (int i = 4; i < 8 &&  i < ViewBag.dsSach.Count; i++)
+            {
+                <div class="col item-container d-flex flex-column justify-content-center align-items-start"
+                     id="row1-item1">
+                    <div class="img-container d-flex justify-content-center w-100">
+                        <img src="@a@ViewBag.dsSach[@i].Hinh" alt="dead"
+                             class="img-fluid">
+                    </div>
+                    <div class="item-text-container d-flex align-items-center text-truncate">
+                        <a href="/Item/Item?id=@ViewBag.dsSach[@i].Id" class="item-text " id="item-name">
+                            @ViewBag.dsSach[@i].TenSach
+                        </a>
+                    </div>
+                    <div class="item-text-container">
+                        <div class="item-text" id="item-price">@ViewBag.dsSach[@i].GiaBia đ</div>
+                    </div>
+                    <div class="item-rating-container d-flex align-items-center gap-1">
+                        <i class="bi bi-star-fill text-warning" id="star1"></i>
+                        <i class="bi bi-star-fill text-warning" id="star2"></i>
+                        <i class="bi bi-star-fill text-warning" id="star3"></i>
+                        <i class="bi bi-star-fill text-warning" id="star4"></i>
+                        <i class="bi bi-star-fill text-warning" id="star5"></i>
+                        <span class="item-text" id="item-rating-number">(1)</span>
+                    </div>
+                </div>
+            }
+        </div>
+
+    <div class="row container-md d-flex align-items-center justify-content-center itemlist-btn-row">
+        <a type="button" class="btn" id="btn-more-bestseller" href="/Search/search">
+            Xem Thêm
+        </a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+    <div class="container-md index-itemlist-container">
+        <div class="row" id="lable-row">
+            <div class="itemlist-label d-flex align-items-center gap-3">
+                <span>
+                    <i class="bi bi-fire text-danger fs-4"></i>
+                </span>XU HƯỚNG MUA SẮM - SÁCH HOT - ĐƯỢC YÊU THÍCH
+            </div>
+        </div>
+        <div class="row index-itemlist" id="bestseller">
+            <div class="container-fluid itemlist-row d-flex align-items-center justify-content-center align-self-stretch"
+                 id="itemlist-row1">
+                @for (int i = 0; i < 4; i++)
+                {
+                    <div class="col item-container d-flex flex-column justify-content-center align-items-start"
+                         id="row1-item1">
+                        <div class="img-container d-flex justify-content-center w-100">
+                            <img src="@a@ViewBag.dsyeuthich[@i].Hinh" alt="dead"
+                                 class="img-fluid">
+                        </div>
+                        <div class="item-text-container d-flex align-items-center text-truncate">
+                            <a href="/Item/Item?id=@ViewBag.dsyeuthich[@i].Id" class="item-text " id="item-name">
+                                @ViewBag.dsyeuthich[@i].TenSach
+                            </a>
+                        </div>
+                        <div class="item-text-container">
+                            <div class="item-text" id="item-price">@ViewBag.dsyeuthich[@i].GiaBia đ</div>
+                        </div>
+                        <div class="item-rating-container d-flex align-items-center gap-1">
+                            <i class="bi bi-star-fill text-warning" id="star1"></i>
+                            <i class="bi bi-star-fill text-warning" id="star2"></i>
+                            <i class="bi bi-star-fill text-warning" id="star3"></i>
+                            <i class="bi bi-star-fill text-warning" id="star4"></i>
+                            <i class="bi bi-star-fill text-warning" id="star5"></i>
+                            <span class="item-text" id="item-rating-number">(1)</span>
+                        </div>
+                    </div>
+                }
+
+            </div>
+            <div class="container-fluid itemlist-row d-flex align-items-center justify-content-center align-self-stretch"
+                 id="itemlist-row2">
+                @for (int i = 4; i < 8; i++)
+                {
+                    <div class="col item-container d-flex flex-column justify-content-center align-items-start"
+                         id="row1-item1">
+                        <div class="img-container d-flex justify-content-center w-100">
+                            <img src="@a@ViewBag.dsyeuthich[@i].Hinh" alt="dead"
+                                 class="img-fluid">
+                        </div>
+                        <div class="item-text-container d-flex align-items-center text-truncate">
+                            <a href="/Item/Item?id=@ViewBag.dsyeuthich[@i].Id" class="item-text " id="item-name">
+                                @ViewBag.dsyeuthich[@i].TenSach
+                            </a>
+                        </div>
+                        <div class="item-text-container">
+                            <div class="item-text" id="item-price">@ViewBag.dsyeuthich[@i].GiaBia đ</div>
+                        </div>
+                        <div class="item-rating-container d-flex align-items-center gap-1">
+                            <i class="bi bi-star-fill text-warning" id="star1"></i>
+                            <i class="bi bi-star-fill text-warning" id="star2"></i>
+                            <i class="bi bi-star-fill text-warning" id="star3"></i>
+                            <i class="bi bi-star-fill text-warning" id="star4"></i>
+                            <i class="bi bi-star-fill text-warning" id="star5"></i>
+                            <span class="item-text" id="item-rating-number">(1)</span>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <div class="row container-md d-flex align-items-center justify-content-center itemlist-btn-row">
+                <a type="button" class="btn" id="btn-more-bestseller" href="/Search/search">
+                    Xem Thêm
+                </a>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+

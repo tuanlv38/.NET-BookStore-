@@ -1,0 +1,12 @@
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace WebApplication8.Contents.Images
+{
+    public class a : Controller
+    {
+        public IActionResult Index()
+        {
+            return View();
+        }
+    }
+}

@@ -1,0 +1,61 @@
+﻿@model GioHang;
+@{
+    String a = "/contents/images/";
+    Sach row = (Sach)ViewData["sach"];
+    
+}
+
+@using Microsoft.AspNetCore.Http
+
+<!-- Lấy giá trị từ Session -->
+@{
+    string userName = Context.Session.GetString("UserName");
+}
+<div class="container-md bg-white mt-5 pt-4 pb-4">
+    <div class="row item-row">
+        <div class="col col-5 d-flex justify-content-start flex-column img-col">
+            <div class="item-img-container">
+                <img src="@a@row.Hinh"
+                     class="img-fluid item-img">
+            </div>
+        </div>
+        <div class="col detail-col">
+            <div class="item-detail-container">
+                <div class="item-name h3">@row.TenSach</div>
+                <div class="item-publisher d-flex flex-row">
+                    Nhà xuất bản:&nbsp
+                    <div class="text fw-bold">@row.NXB1</div>
+                </div>
+                <div class="item-author d-flex flex-row">
+                    Tác giả:&nbsp
+                    <div class="text fw-bold">@row.TacGia</div>
+                </div>
+                <div class="item-cover d-flex flex-row">
+                    Hình thức bìa:&nbsp
+                    <div class="text fw-bold">Bìa mềm</div>
+                </div>
+                <div class="item-price mt-5 fs-1 fw-semibold">@row.GiaBia VNĐ</div>
+            </div>
+            <div class="btn-toolbar item-btn-toolbar justify-content-start gap-4 mt-5">
+
+                @if (string.IsNullOrEmpty(userName))
+                {
+                    <a type="button"
+                       class="btn item-custom-btn fw-bold d-flex align-items-center flex-row gap-2"
+                       id="item-cart-btn" href="/Login/DNDK?id=1"><span><i class="bi bi-cart"></i></span>Thêm vào giỏ hàng</a>
+                }
+                else
+                {
+                      <form class="mt-3" id="signup-form" asp-action="Item" asp-controller="Item" enctype="multipart/form-data" method="post">
+            
+                        <input type="hidden" asp-for="Id_Sach" value="@row.Id">
+                        <input type="hidden" asp-for="Soluong" value="1">
+                        <input type="hidden" asp-for="TaiKhoan" value="@userName">
+                        <button type="submit" class="btn item-custom-btn fw-bold d-flex align-items-center flex-row gap-2" id="item-cart-btn">Thêm vào giỏ hàng</button>
+                       </form>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

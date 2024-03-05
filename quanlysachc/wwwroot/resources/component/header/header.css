@@ -1,0 +1,46 @@
+body {
+  background-color: #F1F1F1;
+}
+body .bi {
+  font-size: 1.2rem;
+}
+body .navbar {
+  background-color: white;
+}
+
+.navbar #brand-custom-logo {
+  color: #236EFF;
+  font-family: Comic Sans MS;
+  font-weight: 700;
+  font-size: 2.4rem;
+}
+.navbar .navbar-btn-toolbar {
+  gap: 1rem;
+}
+.navbar .navbar-btn {
+  --bs-btn-color: #236EFF;
+  --bs-btn-border-color: #236EFF;
+  --bs-btn-hover-color: white;
+  --bs-btn-hover-bg: #236EFF;
+  --bs-btn-active-color: white;
+  --bs-btn-active-bg: #236EFF;
+  --bs-btn-border-radius: 0.4rem;
+  --bs-btn-border-width: 1px;
+  --bs-btn-font-weight: 700;
+  --bs-btn-padding-y: 0.5rem;
+  --bs-btn-padding-x: 1rem;
+  --bs-btn-font-size: 0.8rem;
+  height: 2.25rem;
+  width: 8rem;
+}
+.navbar #btn-search {
+  --bs-btn-color: white;
+  --bs-btn-bg: #FF6E40;
+  --bs-btn-border-color: #FF6E40;
+  --bs-btn-hover-color: white;
+  --bs-btn-hover-bg: #FF5A25;
+  --bs-btn-hover-border-color: #FF5A25;
+  --bs-btn-active-color: white;
+  --bs-btn-active-bg: #FF5A25;
+  --bs-btn-active-border-color: #FF5A25;
+}/*# sourceMappingURL=header.css.map */

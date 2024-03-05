@@ -1,0 +1,68 @@
+﻿@model User;
+@{
+}
+<div class="container-md bg-white p-5 mt-2">
+    <div class="container w-50 bg-white">
+        <div class="container w-75 bg-white">
+            <div class="nav justify-content-center nav-underline" role="tablist">
+                <a href="#tab-login" class="nav-link text-center w-25 @ViewData["DN"] form-nav-link"
+                   role="tab" id="login-tab" aria-controls="tab-login" aria-selected="true" data-bs-toggle="tab">Đăng nhập</a>
+                <a href="#tab-signup" class="nav-link text-center w-25 @ViewData["DK"]   form-nav-link"
+                   role="tab" id="signup-tab" aria-controls="tab-signup" aria-selected="false" data-bs-toggle="tab">Đăng ký</a>
+            </div>
+            <div class="tab-content" id="account-tab-content">
+                <div class="tab-pane show @ViewData["DN"]  " id="tab-login" role="tabpanel" aria-labelledby="login-tab">
+                    <form class="mt-3" id="login-form" asp-action="DNDK" asp-controller="Login" enctype="multipart/form-data" method="post">
+                        <input type="hidden" name="formType" value="1" />
+                        <div class="row mb-3 form-group">
+                            <label for="login-email-input" class="col-12 col-form-label">Tài khoản</label>
+                            <div class="col-12">
+                                <input type="text" asp-for="TaiKhoan" class="form-control" id="login-email-input" placeholder="Nhập tài khoản">
+                            </div>
+                        </div>
+                        <div class="row mb-3 form-group">
+                            <label for="login-password-input" class="col-12 col-form-label">Mật khẩu</label>
+                            <div class="col-12">
+                                <input type="password" asp-for="MatKhau" class="form-control" id="login-password-input" placeholder="Nhập mật khẩu">
+                            </div>
+                        </div>
+                        <div class="row mb-3 form-group">
+                        </div>
+                        <div class="row justify-content-center">
+                            <button type="submit" class="btn btn-primary w-75 fw-bold" id="btn-form-login">Đăng nhập</button>
+                        </div>
+                    </form>
+                </div>
+                <div class="tab-pane show  @ViewData["DK"] " id="tab-signup" role="tabpanel" aria-labelledby="signup-tab">
+                    <form class="mt-3" id="signup-form" asp-action="DNDK" asp-controller="Login" enctype="multipart/form-data" method="post">
+                        <input type="hidden" name="formType" value="2" />
+                        <div class="row mb-3 form-group">
+                            <label for="signup-email-input" class="col-12 col-form-label">Tài khoản</label>
+                            <div class="col-12">
+                                <input asp-for="TaiKhoan" type="text" class="form-control" id="signup-email-input" placeholder="Nhập tài khoản">
+                            </div>
+                        </div>
+
+                        <div class="row mb-3 form-group">
+                            <label for="signup-password-input" class="col-12 col-form-label">Mật khẩu</label>
+                            <div class="col-12">
+                                <input type="password" asp-for="MatKhau"  class="form-control" id="signup-password-input" placeholder="Nhập mật khẩu">
+                            </div>
+                        </div>
+                        <div class="row mb-3 text-center">
+                            <div class="form-text">Bằng việc đăng ký, bạn đã đồng ý với Fahasa.com về</div>
+                            <div class="form-text">
+                                <a href="#">Điều khoản dịch vụ</a>
+                                <span class="form-text">&</span>
+                                <a href="#">Chính sách bảo mật</a>
+                            </div>
+                        </div>
+                        <div class="row justify-content-center">
+                            <button type="submit" class="btn btn-primary w-75 fw-bold" id="btn-form-signup">Đăng ký</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1309 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\quanlysachc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\quanlysachc.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\10-buoc-de-co-cuoc-song-tron-ven-dale-carnegie.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\10-buoc-de-co-cuoc-song-tron-ven-dale-carnegie.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\1016_ma-thoi-den-2-me-dong-long-linh.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\1016_ma-thoi-den-2-me-dong-long-linh.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\11_6_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\11_6_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\12_8_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\12_8_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\13_7_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\13_7_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\184256457_bia_thien_su_tang_hoi_out_chuan-01.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\184256457_bia_thien_su_tang_hoi_out_chuan-01.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\55-cach-de-tranh-luan-hieu-qua-440.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\55-cach-de-tranh-luan-hieu-qua-440.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\55-cach-de-tro-thanh-nguoi-gioi-giao-tiep-440.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\55-cach-de-tro-thanh-nguoi-gioi-giao-tiep-440.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\55-cach-de-tu-tin-440.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\55-cach-de-tu-tin-440.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\810oxkowz4l.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\810oxkowz4l.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\a.css",
+      "PackagePath": "staticwebassets\\Contents\\Images\\a.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\author-img-holder.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\author-img-holder.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\b_v_.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\b_v_.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\bia1-nuhoangsat_chibooks_.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\bia1-nuhoangsat_chibooks_.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\bia_1_den_phu_kp_lam_nhan_vien_cong_vu.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\bia_1_den_phu_kp_lam_nhan_vien_cong_vu.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\bia_1_hoang_tu_kim_khi_chibooks_.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\bia_1_hoang_tu_kim_khi_chibooks_.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\bia_phat_phap_van_dap_out-01.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\bia_phat_phap_van_dap_out-01.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\bia_phat_phap_van_dap_out-02.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\bia_phat_phap_van_dap_out-02.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\bia_vung_troi_hu_cau_final2-03.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\bia_vung_troi_hu_cau_final2-03.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\bookuit.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\bookuit.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\bookuitlogo.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\bookuitlogo.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\bx_loader.gif",
+      "PackagePath": "staticwebassets\\Contents\\Images\\bx_loader.gif"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\cart-icon.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\cart-icon.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\cart-icon2.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\cart-icon2.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\combo-6_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\combo-6_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\combo_6_tap_doraemon_plus_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\combo_6_tap_doraemon_plus_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\combo_chuy_n_i_c_a_ph_.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\combo_chuy_n_i_c_a_ph_.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\con_cho_nho_bia_thuong_bia_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\con_cho_nho_bia_thuong_bia_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\con_cho_nho_bia_thuong_bia_1_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\con_cho_nho_bia_thuong_bia_1_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\controls.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\controls.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\controls1.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\controls1.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\controls2.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\controls2.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\cover_-_thien_su_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\cover_-_thien_su_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\dac-nha-tam.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\dac-nha-tam.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\dacnhantam_2_1_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\dacnhantam_2_1_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\day-chuyen-thien-su.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\day-chuyen-thien-su.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\den-phu-khai-phong-lam-nhan-vien-cong-vu_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\den-phu-khai-phong-lam-nhan-vien-cong-vu_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\den-phu-khai-phong-lam-nv-cong-vu_t2__4.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\den-phu-khai-phong-lam-nv-cong-vu_t2__4.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\den-phu-khai-phong-tai-ban-tap-1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\den-phu-khai-phong-tai-ban-tap-1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\diary_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\diary_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\diary_2_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\diary_2_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\diary_4.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\diary_4.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\do-1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\do-1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\do-10.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\do-10.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\do-2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\do-2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\do-4.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\do-4.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\do-5.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\do-5.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\do-7.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\do-7.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\do-8.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\do-8.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\doi-thay-doi-khi-chung-ta-thay-doi-2a_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\doi-thay-doi-khi-chung-ta-thay-doi-2a_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\doi-thay-doi-khi-chung-ta-thay-doi-3_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\doi-thay-doi-khi-chung-ta-thay-doi-3_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\doi_thay_doi_4_1_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\doi_thay_doi_4_1_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\dong_vat_canh_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\dong_vat_canh_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\dong_vat_vung_cuc_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\dong_vat_vung_cuc_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\doraemon-tap-6_3.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\doraemon-tap-6_3.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\doraemon-tap-9_2.jpeg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\doraemon-tap-9_2.jpeg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\doraemon-tuyen-tap-theo-chu-de-tap-3_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\doraemon-tuyen-tap-theo-chu-de-tap-3_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\dribbble.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\dribbble.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\facebook.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\facebook.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\flickr.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\flickr.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\flower-bg.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\flower-bg.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\footer-2bg.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\footer-2bg.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\footer-top1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\footer-top1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\forst.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\forst.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\full-img-2741328146930_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\full-img-2741328146930_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\full-img-5591329213080_1_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\full-img-5591329213080_1_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\glyphicons-halflings-white.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\glyphicons-halflings-white.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\glyphicons-halflings.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\glyphicons-halflings.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\google_p.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\google_p.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\grid-icon.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\grid-icon.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\h_n_i_b_m_s_u_ph_ph_ng.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\h_n_i_b_m_s_u_ph_ph_ng.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\header-bg.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image01.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image01.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image02.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image02.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image03.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image03.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image04.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image04.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image05.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image05.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image06.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image06.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image07.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image07.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image08.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image08.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image09.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image09.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image10.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image10.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image11.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image11.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image12.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image12.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image13.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image13.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image14.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image14.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image15.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image15.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image15.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image15.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image16.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image16.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image17.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image17.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image18.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image18.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image19.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image19.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image19.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image19.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image20.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image20.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image21.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image21.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image22.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image22.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image23.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image23.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image24.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image24.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image25.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image25.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image26.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image26.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image27.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image27.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image28.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image28.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image29.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image29.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image30.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image30.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image31.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image31.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image32.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image32.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image33.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image33.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image34.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image34.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image35.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image35.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image36.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image36.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image37.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image37.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image38.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image38.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image39.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image39.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image40.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image40.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image41.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image41.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\image42.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\image42.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img032_13.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img032_13.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img033_13.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img033_13.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img075_1_5.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img075_1_5.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img150_8.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img150_8.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img206_15.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img206_15.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img207_15.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img207_15.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img285_10.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img285_10.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img286_11.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img286_11.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img364.u2377.d20170116.t180258.119909.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img364.u2377.d20170116.t180258.119909.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img410_1_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img410_1_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img414_9.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img414_9.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img620_7.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img620_7.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img785_6.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img785_6.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img859_6.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img859_6.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img860_1_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img860_1_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img866.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img866.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img868_2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img868_2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img931_3.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img931_3.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img942_3.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img942_3.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img943_4.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img943_4.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img963_6.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img963_6.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img969_5.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img969_5.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img971_5.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img971_5.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\img986_6.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\img986_6.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\instagram.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\instagram.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\linh-hon-lac.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\linh-hon-lac.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\linkedin.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\linkedin.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\list-icon.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\list-icon.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\list-type.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\list-type.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\logo.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\logo2.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\logo2.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\logo3.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\logo3.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\ma-thoi-den-thanh-co-tinh-nguyet.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\ma-thoi-den-thanh-co-tinh-nguyet.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\main-nav-sep.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\main-nav-sep.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\max.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\max.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\nav-sep.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\nav-sep.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\nav.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\nav.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\nav_small.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\nav_small.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\nh_ng_ch_n_th_ng_t_m_l_h_.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\nh_ng_ch_n_th_ng_t_m_l_h_.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\pegasus_2_-_cu_c_chi_n_b_o_v_x_olympus_-_b_a_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\pegasus_2_-_cu_c_chi_n_b_o_v_x_olympus_-_b_a_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\pinterest.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\pinterest.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\post-nav-sep.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\post-nav-sep.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\qouts-icon.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\qouts-icon.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\quang-ganh-lo.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\quang-ganh-lo.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\raing-star2.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\raing-star2.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\rating-star.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\rating-star.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\rss.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\rss.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\sale-icon.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\sale-icon.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\scan681_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\scan681_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\scan682_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\scan682_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\search00.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\search00.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\shop-btn.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\shop-btn.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\slider-bg.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\slider-bg.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\slider-bg.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\social-ico-bar-bg.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\social-ico-bar-bg.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\song-doi-hanh-phuc.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\song-doi-hanh-phuc.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\stars.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\stars.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\sub-nav-sep.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\sub-nav-sep.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\t_nh_y_u_cu_ng_nhi_t.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\t_nh_y_u_cu_ng_nhi_t.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\th_t_hay_gi_.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\th_t_hay_gi_.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\than-cung-con-luan_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\than-cung-con-luan_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\thanh-pho-pha-le_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\thanh-pho-pha-le_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\thanh-pho-xuong_3.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\thanh-pho-xuong_3.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\thien-su-chap-vi.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\thien-su-chap-vi.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\thien_su_chap_vi_-_full_box.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\thien_su_chap_vi_-_full_box.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\thuat-hung-bien_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\thuat-hung-bien_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\toi_thay_hoa_vang.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\toi_thay_hoa_vang.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\top-nav-sep.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\top-nav-sep.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\trumblr.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\trumblr.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\tuoitredanggiabaonhieu.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\tuoitredanggiabaonhieu.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\twitter0.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\twitter0.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\ui-bg_gl.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\ui-bg_gl.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\ui-bg_gl2.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\ui-bg_gl2.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\vimeo.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\vimeo.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\vua-sat.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\vua-sat.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\vui-song-va-lam-viec-a_1.jpg",
+      "PackagePath": "staticwebassets\\Contents\\Images\\vui-song-va-lam-viec-a_1.jpg"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\Contents\\Images\\youtube.png",
+      "PackagePath": "staticwebassets\\Contents\\Images\\youtube.png"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\admin.css",
+      "PackagePath": "staticwebassets\\admin.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\admin.css.map",
+      "PackagePath": "staticwebassets\\admin.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\admin.js",
+      "PackagePath": "staticwebassets\\admin.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\admin.scss",
+      "PackagePath": "staticwebassets\\admin.scss"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\css\\stylezz.css",
+      "PackagePath": "staticwebassets\\css\\stylezz.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\js\\ckeditor_jquery.js",
+      "PackagePath": "staticwebassets\\js\\ckeditor_jquery.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\js\\jquery-3.2.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\js\\numeral.js",
+      "PackagePath": "staticwebassets\\js\\numeral.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\cart.css",
+      "PackagePath": "staticwebassets\\resources\\cart.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\component\\footer\\footer.css",
+      "PackagePath": "staticwebassets\\resources\\component\\footer\\footer.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\component\\footer\\footer.css.map",
+      "PackagePath": "staticwebassets\\resources\\component\\footer\\footer.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\component\\footer\\footer.html",
+      "PackagePath": "staticwebassets\\resources\\component\\footer\\footer.html"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\component\\footer\\footer.scss",
+      "PackagePath": "staticwebassets\\resources\\component\\footer\\footer.scss"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\component\\header\\header.css",
+      "PackagePath": "staticwebassets\\resources\\component\\header\\header.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\component\\header\\header.css.map",
+      "PackagePath": "staticwebassets\\resources\\component\\header\\header.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\component\\header\\header.html",
+      "PackagePath": "staticwebassets\\resources\\component\\header\\header.html"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\component\\header\\header.js",
+      "PackagePath": "staticwebassets\\resources\\component\\header\\header.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\component\\header\\header.scss",
+      "PackagePath": "staticwebassets\\resources\\component\\header\\header.scss"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\resources\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\index.css",
+      "PackagePath": "staticwebassets\\resources\\index.css"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\index.css.map",
+      "PackagePath": "staticwebassets\\resources\\index.css.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\index.scss",
+      "PackagePath": "staticwebassets\\resources\\index.scss"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap-input-spinner.js",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap-input-spinner.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\resources\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\c#\\quanlysachc\\quanlysachc\\wwwroot\\resources\\search.css",
+      "PackagePath": "staticwebassets\\resources\\search.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.quanlysachc.props",
+      "PackagePath": "build\\quanlysachc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.quanlysachc.props",
+      "PackagePath": "buildMultiTargeting\\quanlysachc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.quanlysachc.props",
+      "PackagePath": "buildTransitive\\quanlysachc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.quanlysachc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

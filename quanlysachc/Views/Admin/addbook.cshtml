@@ -1,0 +1,132 @@
+﻿@model Sach;
+@{
+	
+
+}
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<link href="~/css/stylezz.css" rel="stylesheet" />
+	<!--Make sure the form has the autocomplete function switched off:-->
+<form autocomplete="off" asp-action="addbook" asp-controller="Admin" enctype="multipart/form-data" method="post">
+		<div class="autocomplete" style="width:300px;">
+	
+		
+		<label for="TenSach">Tên sách</label>
+		<input type="text" asp-for="TenSach" placeholder="Nhập tên sách">
+
+		<label for="Id_loaiSach">Mã Loại sách</label>
+		<input  type="text" asp-for="Id_loaiSach">
+
+		<label for="tenloaisach">Tên Loại sách</label>
+		<input type="text" id="tenloaisach" placeholder="Nhập loại sách ( nếu chưa có vui lòng tạo trước)" />
+
+		<label for="Id_tacGia">Mã tác giả</label>
+		<input type="text" asp-for="Id_tacGia" />
+
+		<label for="TacGia">Tên tác giả</label>
+		<input type="text" asp-for="TacGia" placeholder="Nhập tác giả ( nếu chưa có vui lòng tạo trước)">
+
+		<label for="Id_NXB">Mã NXB</label>
+		<input type="text" asp-for="Id_NXB">
+
+		<label for="NXB1">Tên NXB</label>
+		<input type="text" asp-for="NXB1" placeholder="Nhập NXB (nếu chưa có vui lòng tạo trước)" />
+		<label for="DonGia">Đơn giá</label>
+		<input type="text" asp-for="DonGia" placeholder="Nhập đơn giá" />
+		<label for="GiaBia">Đơn giá</label>
+		<input type="text" asp-for="GiaBia" placeholder="Nhập giá bìa" />
+		<input type="file" asp-for="ImageFile" accept="image/*" onchange="loadFile(event)" />
+		<p><img id="output"  width="200" height="300" /></p>
+		</div>
+	<div asp-validation-summary="All" class="text-danger"></div>
+		<input type="submit">
+	</form>
+	<script>
+		var loadFile = function (event) {
+			var image = document.getElementById('output');
+			image.src = URL.createObjectURL(event.target.files[0]);
+		};
+	</script>
+
+
+<script>
+	$(function () {
+		var nxbtags = [
+	@foreach (NXB nxb in ViewBag.dsNXB)
+	{
+		@:{ id: @nxb.Id, value: decodeURIComponent('@Uri.EscapeDataString(nxb.TenNXB)') },
+	}
+			];
+
+		var tacgiatags = [
+	@foreach (TacGia tg in ViewBag.dsTacGia)
+	{
+		@:{ id: @tg.Id, value: decodeURIComponent('@Uri.EscapeDataString(tg.TenTacGia)') },
+	}
+			];
+
+		var loaisachtags = [
+	@foreach (LoaiSach ls in ViewBag.dsLoaiSach)
+	{
+		@:{ id: @ls.Id, value: decodeURIComponent('@Uri.EscapeDataString(ls.TenLoaiSach)') },
+	}
+			];
+
+		$("#NXB1").autocomplete({
+			source: nxbtags,
+			minLength: 0,
+			autoFocus: true,
+			select: function (event, ui) {
+				var selectedValue = ui.item.value;
+				var selectedId = ui.item.id;
+
+				$("#Id_NXB").val(selectedId);
+
+				// Thực hiện các thao tác khác nếu cần
+			}
+		}).data('ui-autocomplete')._renderItem = function (ul, item) {
+			return $("<li>")
+				.append("<div>" + item.value + "</div>")
+				.appendTo(ul);
+		};
+
+		$("#tenloaisach").autocomplete({
+			source: loaisachtags,
+			minLength: 0,
+			autoFocus: true,
+			select: function (event, ui) {
+				var selectedValue = ui.item.value;
+				var selectedId = ui.item.id;
+
+				$("#Id_loaiSach").val(selectedId);
+
+				// Thực hiện các thao tác khác nếu cần
+			}
+		}).data('ui-autocomplete')._renderItem = function (ul, item) {
+			return $("<li>")
+				.append("<div>" + item.value + "</div>")
+				.appendTo(ul);
+		};
+
+		$("#TacGia").autocomplete({
+			source: tacgiatags,
+			minLength: 0,
+			autoFocus: true,
+			select: function (event, ui) {
+				var selectedValue = ui.item.value;
+				var selectedId = ui.item.id;
+
+				$("#Id_tacGia").val(selectedId);
+
+				// Thực hiện các thao tác khác nếu cần
+			}
+		}).data('ui-autocomplete')._renderItem = function (ul, item) {
+			return $("<li>")
+				.append("<div>" + item.value + "</div>")
+				.appendTo(ul);
+		};
+	});
+</script>
+<div asp-validation-summary="All" class="text-danger"></div>
